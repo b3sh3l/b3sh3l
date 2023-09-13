@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **getting a job**
 
-- 📝 I regularly write articles on http:127.0.0.1/blog
+- 📝 I regularly write articles on [http://localhost:8000/blog](http://localhost:8000/blog)
 
 - 💬 Ask me about **Django, Fastapi, Typer**
 
